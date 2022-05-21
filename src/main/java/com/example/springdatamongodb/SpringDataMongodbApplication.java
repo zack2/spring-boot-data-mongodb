@@ -10,4 +10,5 @@ public class SpringDataMongodbApplication {
         SpringApplication.run(SpringDataMongodbApplication.class, args);
     }
 
+
 }
